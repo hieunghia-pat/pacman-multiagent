@@ -22,8 +22,7 @@ python3 pacman.py -l mediumClassic -p [MinimaxAgent|AlphaBetaAgent|ExpectimaxAge
 P/s: my evaluation function works best with -a depth=1 which means the pacman calculate 1 step before moving (it knows where the ghost will go).
 
 Some gameplay videos:
-
-![](videos_gameplay/pacman_openClassic_depth_1.webm)
-![](videos_gameplay/pacman_trappedClassic_depth_1.webm)
-![](videos_gameplay/pacman_originalClassic_depth_1.webm)
-![](videos_gameplay/pacman_powerClassic_depth_1.webm)
+[![Watch the video](videos_gameplay/pacman_openClassic_depth_1.webm)](videos_gameplay/pacman_openClassic_depth_1.webm)
+[![Watch the video](videos_gameplay/pacman_trappedClassic_depth_1.webm)](videos_gameplay/pacman_trappedClassic_depth_1.webm)
+[![Watch the video](videos_gameplay/pacman_originalClassic_depth_1.webm)](videos_gameplay/pacman_originalClassic_depth_1.webm)
+[![Watch the video](videos_gameplay/pacman_powerClassic_depth_1.webm)](videos_gameplay/pacman_powerClassic_depth_1.webm)
