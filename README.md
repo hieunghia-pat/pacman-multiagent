@@ -18,3 +18,5 @@ To run auto-play mode with specific strategy, use the following command:
 ```
 python3 pacman.py -l mediumClassic -p [MinimaxAgent|AlphaBetaAgent|ExpectimaxAgent]
 ```
+
+P/s: my evaluation function works best with -a depth=1 which means the pacman calculate 1 step before moving (it knows where the ghost will go).
